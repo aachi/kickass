@@ -1,0 +1,3 @@
+[run]
+include = kickass/*
+omit = *migrations*
